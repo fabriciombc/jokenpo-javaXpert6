@@ -1,2 +1,2 @@
 # jokenpo-javaXpert6
-Class exercise on loops in java
+Class exercise on conditional in Java
